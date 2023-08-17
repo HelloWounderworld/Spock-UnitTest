@@ -28,6 +28,7 @@ class DatabaseDrivenSpec extends Specification {
   }
 
   def "Maximum of #a and #b is #c"() {
+    println "Estou aqui!"
     expect:
     Math.max(a, b) == c
 

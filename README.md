@@ -11,3 +11,5 @@ Seguir os links - Não tem curso na Udemy para isso...
     https://guides.grails.org/grails4/creating-your-first-grails-app/guide/index.html
 
 Recomendamos que utilize de IDE o IntelliJ para conseguir rodar os testes unitários do Spock.
+
+Branch principal é a master!
